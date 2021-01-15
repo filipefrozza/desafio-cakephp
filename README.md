@@ -2,9 +2,7 @@
 
 ## Sobre o Desafio
 
-Neste desafio vamos adicionar recursos a implementação realizada na [Importação de Produto com Variação](https://gitlab.com/simplo7/desafios-cakephp/-/tree/master/desafio-importacao-produto%20-variacao)
-
-Desta vez, iremos castrar produtos no nosso sistema através de uma API Rest.
+Neste desafio vamos adicionar produtos no nosso sistema através de uma API Rest.
 
 ## O que iremos utilizar
 
