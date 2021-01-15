@@ -1,0 +1,72 @@
+{
+   "Produto":{
+      "ativo": 1,
+      "nome":"Vestido Gatinha",
+      "descricao":"<p><span style='font-size:16px;'><span style='font-family:verdana,geneva,sans-serif;'>Vestido em super cetim.</span></span></p>",
+      "sku":"MP7CBKLJA"     
+   },
+   "Categoria":{
+     "nome": "Menina"    
+   },
+   "Imagem":[
+      {
+         "ordem": 1,
+         "imagem":"http://cdn.simplo7.net/static/0023/desafio02/85a289462a.jpg"
+      },
+      {         
+         "ordem": 2,
+         "imagem":"http://cdn.simplo7.net/static/0023/desafio02/5a566c0a23.jpg"
+      },
+      {         
+         "ordem": 3,
+         "imagem":"http://cdn.simplo7.net/static/0023/desafio02/44db777cb8.jpg"
+      }
+   ],
+   "Estoque":[
+      {
+         "sku":"MP7CBKLJA-3",         
+         "quantidade":"5",
+         "valor_compra":"54.90",         
+         "valor_venda":"129.90",         
+         "valor_promocao":"79.90",
+         "promocao_data_inicio":"2020-01-01",
+         "promocao_data_fim":"2020-12-11",
+         "altura":"2",
+         "largura":"11",
+         "comprimento":"16",
+         "peso":"0.25",
+         "variacao_tamanho": "3",
+         "variacao_cor": null
+      },
+      {
+         "sku":"MP7CBKLJA-6",         
+         "quantidade":"1",
+         "valor_compra":"54.90",         
+         "valor_venda":"129.90",         
+         "valor_promocao":"79.90",
+         "promocao_data_inicio":"2020-01-01",
+         "promocao_data_fim":"2020-12-11",
+         "altura":"2",
+         "largura":"11",
+         "comprimento":"16",
+         "peso":"0.25",
+         "variacao_tamanho": "6",
+         "variacao_cor": null
+      },
+      {
+         "sku":"MP7CBKLJA-12",         
+         "quantidade":"1",
+         "valor_compra":"64.90",         
+         "valor_venda":"129.90",         
+         "valor_promocao":"79.90",
+         "promocao_data_inicio":"2020-01-01",
+         "promocao_data_fim":"2020-12-11",
+         "altura":"2",
+         "largura":"11",
+         "comprimento":"16",
+         "peso":"0.25",
+         "variacao_tamanho": "12",
+         "variacao_cor": null
+      }
+   ]  
+}
